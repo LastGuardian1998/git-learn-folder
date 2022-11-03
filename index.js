@@ -1,2 +1,2 @@
-let smth = 'sdfs';
-console.log(smth)
+let hello = 'Hello World';
+console.log(hello)
