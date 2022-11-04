@@ -1,2 +1,3 @@
 *.log
 !logs/happy.log
+config.json
